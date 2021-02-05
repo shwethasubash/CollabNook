@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875672644152",
+    "firebase_url": "https://collabnook.firebaseio.com",
+    "project_id": "collabnook",
+    "storage_bucket": "collabnook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875672644152:android:3e2da2a81c6505908a54cd",
+        "android_client_info": {
+          "package_name": "com.example.collabnook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875672644152-522l4namtmua1ekuoukvt2jh3r3j5e06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBhIbppSVm2n6bDuCkGzN41taY-cVfCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875672644152-522l4namtmua1ekuoukvt2jh3r3j5e06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
